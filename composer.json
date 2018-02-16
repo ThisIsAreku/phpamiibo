@@ -1,0 +1,18 @@
+{
+    "name": "thisisareku/phpamiibo",
+    "description": "Parse Amiibo dumps",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexandre Boucey",
+            "email": "alexandre.boucey@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "ThisIsAreku\\PhpAmiibo\\": "src/"
+        }
+    }
+}
